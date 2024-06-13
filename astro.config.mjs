@@ -4,6 +4,7 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     // site: 'https://yumyooyum.github.io/',
     // base: '/simpleAstroForGithubPages/',
-    site: 'https://kardgift.github.io/',
+    site: 'https://kardgift.github.io',
     // base: '/simpleAstroForGithubPages/',
+    
 });
